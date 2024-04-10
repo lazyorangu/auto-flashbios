@@ -1,0 +1,2 @@
+# auto-flashbios
+simple use 
